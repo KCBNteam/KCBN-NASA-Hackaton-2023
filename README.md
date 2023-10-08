@@ -10,9 +10,7 @@ You can access and review our project by following these steps:
 - Launch the OutSystems Service Studio, which is the integrated development environment (IDE) provided by OutSystems.
 - Sign in or create a free OutSystems account if prompted.
 - Once you are in OutSystems Service Studio, you can import KCBN.oap and KCBN_Base.oap into the application and explore the project by opening the project files or using the provided project file.
-- 
 Please note that you'll have access to the full source code, where you can review and assess our project within the OutSystems environment.
-
 
 
 Thank you for your interest in our project, and we appreciate your time and effort in evaluating it within the OutSystems environment.
