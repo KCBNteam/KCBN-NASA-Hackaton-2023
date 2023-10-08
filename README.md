@@ -15,4 +15,4 @@ You can access and review our project by following these steps:
 Note that here you'll have access to the full source code, where you can review and assess our project within the OutSystems environment.
 
 
-Thank you for your interest in our project, and we appreciate your time and effort in evaluating it within the OutSystems environment.
+Thank you for your interest in our project.
