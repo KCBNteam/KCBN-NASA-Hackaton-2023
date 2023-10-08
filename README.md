@@ -2,6 +2,8 @@
 
 <hr>
 
+We developed our website using OutSystems, a low-code development platform. If you would like to review the source code, please note that it is only accessible on the OutSystems platform. To do this, you will need to be in the OutSystems environment.
+
 <h2>1 - ACCESSING AND REVIEWING THE SOURCE CODE IN OUT SYSTEMS</h2>
 
 To review the source code of our project, you will need to have the OutSystems environment installed on your machine. OutSystems is a powerful low-code platform that empowers developers to build and manage web and mobile applications efficiently in the Windows or Mac environment. If you already have the OutSystems environment installed, skip to steps 4 onwards.
