@@ -4,7 +4,7 @@
 
 We developed our website using OutSystems, a low-code development platform. If you would like to review the source code, please note that it is only accessible on the OutSystems platform. To do this, you will need to be in the OutSystems environment.
 
-<h2>1 - ACCESSING AND REVIEWING THE SOURCE CODE IN OUT SYSTEMS</h2>
+<h2>1 - ACCESSING AND REVIEWING THE SOURCE CODE IN OUTSYSTEMS</h2>
 
 You can access and review our project by following these steps:
 - Launch the OutSystems Service Studio, which is the integrated development environment (IDE) provided by OutSystems.
